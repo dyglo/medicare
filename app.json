@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "MediPulse AI",
+    "slug": "medipulse-ai-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#141414"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
